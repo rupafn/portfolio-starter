@@ -1,6 +1,6 @@
 # Portfolio Starter Kit
 
-Welcome to the **Portfolio Starter Kit**! This repository is designed for individuals who want to build an impressive portfolio while job hunting. It includes projects and templates to showcase your skills effectively.
+Welcome to the **Portfolio Starter Kit**! This repository is designed for individuals who want to build an impressive portfolio while job hunting. It includes project ideas and templates to showcase your skills effectively.
 
 ---
 
