@@ -13,27 +13,31 @@ Welcome to the **Portfolio Starter Kit**! This repository is designed for indivi
 
 2. **Customizable**
    - Modify and adapt the projects to suit your style and expertise. Create your own projects if you want.
-   - Project Ideas
+
+**Project Ideas**
+---
      
-        **Personal Portfolio**
+   ****Personal Portfolio****
              
-        ***Description:*** A customizable template to showcase skills and projects.
-        
-        ***Features:***
-        
-        - Sections for "About Me," "Projects," and "Contact."
-        
-        - Responsive design.
-        
-        ***Skills Demonstrated:***
-        Component structure and props.
-        CSS and responsive design.
+     Description: A customizable template to showcase skills and projects.
+     
+     Features:
+     
+     - Sections for "About Me," "Projects," and "Contact."
+     
+     - Responsive design.
+     
+     Skills Demonstrated:
+     
+     - Component structure and props.
+     
+     - CSS and responsive design.
 
-        **Desktop file organiser**
+**Desktop file organiser**
 
-     ***Description:*** A Python program to automate the process of sorting and categorizing files based on file types, extensions, or other criteria.
+     Description: A Python program to automate the process of sorting and categorizing files based on file types, extensions, or other criteria.
 
-     ***Features:***
+     Features:
 
      - Sort Files by Type
           - Example:
